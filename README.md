@@ -17,3 +17,4 @@ My main goal for this project :
 * Create an AI model that can play chess professionally
 
 ## Project resources 
+
